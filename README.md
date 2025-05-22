@@ -34,7 +34,7 @@ Sarees, Kurtas, and Ethnic Dresses were among the top-selling categories.
 ## 🧰 Tools Used:
 Excel for data cleaning, interactive dashboards and visualizations
 
-!Screenshot [Dashbord](https://github.com/Bhagvat7/Bhagvat7-Data_Analysis_Dashbord_Excel/blob/main/Biradar%20store%20report%20.png)
+Screenshot ![Dashbord](https://github.com/Bhagvat7/Bhagvat7-Data_Analysis_Dashbord_Excel/blob/main/Biradar%20store%20report%20.png)
 
 ## 📁 About the Dataset:
 The dataset includes order information such as:
