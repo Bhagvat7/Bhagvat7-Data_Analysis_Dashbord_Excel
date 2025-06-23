@@ -2,7 +2,7 @@
 The dataset includes order information 
 
 ## 🛍️ Biradar Store Data Analysis
-This project presents a detailed sales analysis of Biradar Store for the year 2022. The analysis is focused on understanding customer behavior, sales trends, product category performance, and channel effectiveness using real-world e-commerce data.
+This project presents a detailed sales analysis of Biradar Store for the year 2022. The analysis is focused on understanding customer behavior, sales trends, product category performance and channel effectiveness using real-world e-commerce data.
 
 ## 📊 Key Highlights:
 Sales Trends: Monthly sales and order volumes show consistent growth and seasonal variations.
@@ -17,11 +17,11 @@ Returned & Refunded: 5% combined
 
 ## Top Performing States:
 
-Maharashtra, Karnataka, Uttar Pradesh, Telangana, and Tamil Nadu were the highest contributing states.
+Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu were the highest contributing states.
 
 ## Popular Sales Channels:
 
-Amazon (35%), Myntra (23%), and Flipkart (22%) were the top sources of orders.
+Amazon (35%), Myntra (23%) and Flipkart (22%) were the top sources of orders.
 
 ## Age Demographics:
 
@@ -42,11 +42,10 @@ The dataset includes order information such as:
 Customer gender and age group
 Order status
 Sales amount
-Sales channels (Amazon, Flipkart, Myntra, etc.)
+Sales channels (Amazon, Flipkart, Myntra etc.)
 State-wise order distribution
 Product categories
 
-## 📌 Purpose:
-This project was undertaken as part of a data analytics learning journey. It demonstrates practical skills in data exploration, dashboard design, and business insights generation for retail sales.
+## 📌 Purpose: This project was undertaken as part of a data analytics learning journey. It demonstrates practical skills in data exploration, dashboard design, and business insights generation for retail sales.
 
 
